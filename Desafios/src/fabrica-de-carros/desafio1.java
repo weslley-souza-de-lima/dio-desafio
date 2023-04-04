@@ -1,10 +1,12 @@
 import java.util.Scanner;
 
-public class desafio1{
+public class Desafio1{
 
 	public static void main(String[] args) {
 
 	 Scanner scan = new Scanner(System.in);
+
+     
      Double custoFabrica = scan.nextDouble();
      Double porcentagemDistribuidor = scan.nextDouble();
      Double percentualImpostos = scan.nextDouble();
